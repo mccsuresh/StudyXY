@@ -1,4 +1,4 @@
-# StudyXY Desktop & Mobile
+# [StudyXY](https://studyxy.com) Desktop & Mobile
 
 The official applications for StudyXY - a comprehensive learning platform for students and researchers.
 
